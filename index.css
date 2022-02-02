@@ -1,0 +1,46 @@
+
+
+#arial {
+    color : grey ;
+    font-family: arial ;
+}
+
+#red {
+    color : red ;
+}
+
+#blue {
+    color : blue ;
+}
+
+#green {
+    color : green ;
+}
+
+#mono {
+    font-family : monospace ; 
+}
+
+#img {
+    max-width : 20% ;
+}
+
+#img1 {
+    max-width: 10%;
+}
+
+#img3 {
+    padding-left : 50px;
+}
+
+#rouge {
+    background-color: red;
+}
+
+#bleu {
+    background-color: blue;
+}
+
+#vert {
+    background-color: green ;
+}
